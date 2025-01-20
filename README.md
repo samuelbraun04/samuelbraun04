@@ -1,5 +1,5 @@
 ### Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuelbraun04&theme=react-dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelbraun04&hide=stars,prs)
 
 ---
 
