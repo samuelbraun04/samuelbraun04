@@ -8,5 +8,3 @@
     </td>
   </tr>
 </table>
-
-![GitHub streak](https://streak-stats.demolab.com/?user=samuelbraun04)
